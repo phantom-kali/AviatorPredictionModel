@@ -1,3 +1,5 @@
+![Preview](betika.png)
+
 # Aviator Prediction Model
 
 The Aviator Prediction Model is a graphical user interface (GUI) application for making predictions using a linear regression model. It allows users to input sequences of numerical data, train a linear regression model based on the input data, and make predictions for future values.
